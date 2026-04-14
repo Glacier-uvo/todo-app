@@ -1,4 +1,4 @@
-Print("Local verison running")
+Print("B version Local verison running")
 
 FILE = "tasks.txt"
 
