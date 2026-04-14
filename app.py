@@ -1,3 +1,5 @@
+Print("App started from teammate")
+
 FILE = "tasks.txt"
 
 def load_tasks():
