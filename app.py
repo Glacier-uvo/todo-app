@@ -1,5 +1,4 @@
 Print("B version Local verison running")
-Print("A version Teammate started app")
 8e6ccbc12478d78c45385ab6c69df8eab2b8a130
 
 FILE = "tasks.txt"
