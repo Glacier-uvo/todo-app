@@ -1,4 +1,4 @@
-Print("App started from teammate")
+Print("Local verison running")
 
 FILE = "tasks.txt"
 
