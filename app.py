@@ -1,5 +1,5 @@
-print("Blake fugazy Local verison running")
-print("Toms version")
+print("Blaeke fugazy Local verison running")
+print("Todms version")
 
 FILE = "tasks.txt"
 
