@@ -1,8 +1,4 @@
-Print("B version Local verison running")
-Print("A version Teammate v2")
-Print("B version Local verison running before Teammate owner")
- 337c8f65abe520f37cbbbeaebfce746a2a5e62cd
-8e6ccbc12478d78c45385ab6c69df8eab2b8a130
+print("B version Local verison running")
 
 FILE = "tasks.txt"
 
